@@ -66,5 +66,5 @@ HR teams need real-time insights to:
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Overview
 ![HR Dashboard](https://github.com/HarshitaCoder-bot/HR-Data-Analytics-Dashboard/blob/408aa6b99431347ba07f75bc51c5b2008bd0f505/HR%20Data%20Analytics%20Dashboard%20Overview.png?raw=true)
